@@ -9,6 +9,22 @@ The UI layer integrates Angular Material and Tailwind CSS to deliver a modern, a
 
 With a strong focus on code quality, testing, and maintainability, the project includes unit and end-to-end testing strategies and enforces strict development guidelines. It is designed to be easily extended and adapted to different business domains without compromising consistency or scalability.
 
+## Setup
+
+Run `npm install` to install the application dependencies.
+
+## Development
+
+Run `npm start` for a dev server. Navigate to `http://localhost:5173/`. The application automatically reloads if you change any of the source files.
+
+## Build
+
+Run `npm run build` to build the client/server project. The client build artifacts are located in the `dist/analog/public` directory. The server for the API build artifacts are located in the `dist/analog/server` directory.
+
+## Test
+
+Run `npm run test` to run unit tests with [Vitest](https://vitest.dev).
+
 ## Technologies
 
 ### Core Framework & Platform
