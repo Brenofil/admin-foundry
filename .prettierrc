@@ -1,0 +1,10 @@
+{
+  "semi": true,
+  "tabWidth": 4,
+  "useTabs": true,
+  "printWidth": 160,
+  "bracketSpacing": true,
+  "arrowParens": "always",
+  "objectWrap": "collapse",
+  "quoteProps": "as-needed"
+}
